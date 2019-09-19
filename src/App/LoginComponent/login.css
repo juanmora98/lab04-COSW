@@ -1,0 +1,33 @@
+.layout {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.avatar {
+    margin: 10px;
+    background: floralwhite;
+}
+
+.background {
+    background-image: url(https://media.wired.com/photos/5926b773f3e2356fd800a373/master/w_2130,c_limit/WarOnParking_TA_GettyImages-83314262.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+.form {
+    width: 100%;
+}
+
+.submit {
+    margin-top: 20px;
+}
